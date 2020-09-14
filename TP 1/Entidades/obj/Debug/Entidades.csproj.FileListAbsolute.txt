@@ -1,0 +1,6 @@
+C:\Users\Aliw\Desktop\LaboYPro2\Rodriguez Ossa Alexis Kevin\Entidades\bin\Debug\Entidades.dll
+C:\Users\Aliw\Desktop\LaboYPro2\Rodriguez Ossa Alexis Kevin\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Aliw\Desktop\LaboYPro2\Rodriguez Ossa Alexis Kevin\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\LaboYPro2\Rodriguez Ossa Alexis Kevin\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\LaboYPro2\Rodriguez Ossa Alexis Kevin\Entidades\obj\Debug\Entidades.dll
+C:\Users\Aliw\Desktop\LaboYPro2\Rodriguez Ossa Alexis Kevin\Entidades\obj\Debug\Entidades.pdb
