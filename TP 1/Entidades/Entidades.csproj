@@ -42,7 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculadora.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Numero.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
