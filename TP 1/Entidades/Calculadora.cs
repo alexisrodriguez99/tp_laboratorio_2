@@ -18,18 +18,15 @@ namespace Entidades
         static public double Operar(Numero num1, Numero num2, string operador)
         {
             double resultado = 0;
-            bool validar;
-            char operadorChar;
-
-            validar = char.TryParse(operador, out operadorChar);
-            if (validar == true)
-            {
-                ValidarOperador(Convert.ToChar(operadorChar));
-            }
-            else
+         if(operador=="")
             {
                 operador = "+";
             }
+         else
+            {
+              operador= ValidarOperador(Convert.ToChar( operador));
+            }
+
             switch (operador)
             {
                 case "+":
