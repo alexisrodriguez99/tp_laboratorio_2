@@ -122,10 +122,7 @@ namespace Entidades
                     if (v == vehiculo)
                     {
                         flag = 1;
-                    }
-                    else
-                    {
-                        flag = 0;
+                        break;
                     }
                 }
                 if (flag == 0)
