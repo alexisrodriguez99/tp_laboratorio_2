@@ -1,0 +1,9 @@
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\bin\Debug\Exepciones.dll
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\bin\Debug\Exepciones.pdb
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Aliw\Desktop\tp 3 lab2\RodriguezOssa.AlexisKevin.2A.TP3\Archivos\obj\Debug\Archivos.pdb
