@@ -131,6 +131,7 @@ namespace MiCalculadora
             if (respuesta == DialogResult.Yes)
             {
                 e.Cancel = false;
+                
             }
             else
             {

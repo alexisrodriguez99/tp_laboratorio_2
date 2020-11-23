@@ -1,0 +1,9 @@
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete

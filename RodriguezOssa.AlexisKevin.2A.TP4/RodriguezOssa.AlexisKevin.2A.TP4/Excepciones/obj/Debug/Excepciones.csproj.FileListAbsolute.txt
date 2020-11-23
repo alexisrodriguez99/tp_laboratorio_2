@@ -1,0 +1,6 @@
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Aliw\Desktop\tp4 laboratorio\RodriguezOssa.AlexisKevin.2A.TP4\Excepciones\obj\Debug\Excepciones.pdb
